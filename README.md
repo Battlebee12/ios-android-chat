@@ -8,11 +8,7 @@ Clone the project
   git clone https://github.com/silenteyesoncode/openMind.git
 ```
 
-Go to the project directory
 
-```bash
-  cd openMind
-```
 
 Install dependencies
 
